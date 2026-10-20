@@ -1,7 +1,7 @@
 # Book Map
 
 **Cập nhật:** 20/10/2026  
-**Phạm vi:** rà soát sơ bộ danh mục bản thảo và dự án sách của tác giả. Bản đồ web: [`index.html`](index.html).
+**Phạm vi:** rà soát sơ bộ danh mục bản thảo và dự án sách của tác giả. Bản đồ web: [book-map](https://chungntu.github.io/book-map/) · [mã nguồn](https://github.com/chungntu/book-map) · [`index.html`](index.html).
 
 ## Nhận định chung
 
@@ -42,4 +42,5 @@ Các dự án còn lại đang viết, tái cấu trúc hoặc mới ở mức m
 ## Ngoài danh mục sách
 
 `3 THỊ GIÁC MÁY TÍNH - GIÁM SÁT SỨC KHỎE KẾT CẤU` hiện có mã nguồn, trọng số mô hình và dữ liệu nhưng chưa tìm thấy bản thảo hoặc đề cương sách; chưa đưa vào danh mục sách.
+
 
