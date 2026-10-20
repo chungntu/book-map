@@ -11,15 +11,15 @@ Dự án còn lại đang được tái cấu trúc. Riêng thư mục Thị gi�
 
 ## Danh mục
 
-| Mã | Dự án | Đánh giá sơ bộ | Dấu hiệu chính |
+| Mã | Dự án | Đánh giá sơ bộ | Nội dung tóm tắt |
 |---|---|---|---|
-| B01 | [Động lực học công trình](https://github.com/chungntu/dong-luc-hoc-cong-trinh) | **Đã có bản thảo đầy đủ** | 12 chương, phụ lục mã nguồn, tài liệu tham khảo; PDF 203 trang và quy trình build. |
-| B02 | [Phương pháp phần tử hữu hạn – bản sao số cầu đường sắt](https://github.com/chungntu/finite_element_method_book) | **Đã có bản thảo đầy đủ; cần hoàn thiện biên tập** | 10 chương, lời đầu, kết luận, tài liệu tham khảo; PDF 238 trang. Chương 8 ngắn hơn đáng kể các chương khác. |
-| B03 | [Tối ưu kết cấu – lý thuyết và ứng dụng trong công trình cầu](https://github.com/chungntu/toi-uu-ket-cau-book) | **Đã có bản thảo đầy đủ; cần rà soát cuối** | 9 chương, phụ lục code, tài liệu tham khảo; PDF 126 trang; ví dụ tính toán đi kèm. |
-| B04 | [Kiểm tra siêu âm mối hàn ray đường sắt đô thị](https://github.com/chungntu/sieu-am-moi-han-ray-60r2) | **Đã có bản thảo đầy đủ** | 10 chương, 8 phụ lục; PDF 133 trang; có quy trình kiểm tra, bảng tra hiện trường và tài liệu tham khảo. |
-| B05 | [Giám sát cầu cạn đường sắt cao tốc](https://github.com/chungntu/shm-cau-duong-sat-cao-toc) | **Đang tái cấu trúc; chưa hoàn thành theo định vị mới** | PDF cũ 504 trang và bản mới 67 trang; đề cương 12 chương, hiện thấy 4 chương trong bản LaTeX mới. |
-| B06 | [Giám sát sức khỏe kết cấu (SHM)](https://github.com/chungntu/shm-book) | **Đã có bản thảo đầy đủ** | 6 chương, phụ lục mã nguồn và đáp số; PDF 174 trang. |
-| B07 | [Nhận dạng hệ kết cấu từ dao động môi trường](https://github.com/chungntu/structural-system-identification-book) | **Gần hoàn chỉnh** | 5 phần, 14 chương (chương 11 là Compressive Sensing); phụ lục, đáp số, thuật ngữ; PDF 356 trang. Cần rà soát mạch liên chương và hoàn tất vòng biên tập. |
+| B01 | [Động lực học công trình](https://github.com/chungntu/dong-luc-hoc-cong-trinh) | **Đã có bản thảo đầy đủ** | Trình bày dao động và đáp ứng kết cấu, với ứng dụng trong kháng chấn, công trình biển, cầu đường sắt và giám sát sức khỏe kết cấu. |
+| B02 | [Phương pháp phần tử hữu hạn – bản sao số cầu đường sắt](https://github.com/chungntu/finite_element_method_book) | **Đã có bản thảo đầy đủ; cần hoàn thiện biên tập** | Khai thác phương pháp phần tử hữu hạn để xây dựng mô hình số cho cầu đường sắt, kết nối mô hình kết cấu với dữ liệu và bài toán ứng dụng. |
+| B03 | [Tối ưu kết cấu – lý thuyết và ứng dụng trong công trình cầu](https://github.com/chungntu/toi-uu-ket-cau-book) | **Đã có bản thảo đầy đủ; cần rà soát cuối** | Giới thiệu lý thuyết và thuật toán tối ưu kết cấu, tập trung vào ứng dụng cho công trình cầu và các ví dụ tính toán bằng MATLAB/Python. |
+| B04 | [Kiểm tra siêu âm mối hàn ray đường sắt đô thị](https://github.com/chungntu/sieu-am-moi-han-ray-60r2) | **Đã có bản thảo đầy đủ** | Trình bày cơ sở siêu âm và hướng dẫn kiểm tra mối hàn ray đô thị 60R2, từ lựa chọn thiết bị, thao tác đo đến đánh giá chỉ thị tại hiện trường. |
+| B05 | [Giám sát cầu cạn đường sắt cao tốc](https://github.com/chungntu/shm-cau-duong-sat-cao-toc) | **Đang tái cấu trúc; chưa hoàn thành theo định vị mới** | Xây dựng quy trình giám sát cầu cạn đường sắt cao tốc theo hướng bài toán ngược, dùng mô hình cầu xuyên suốt để kết nối cập nhật mô hình, tối ưu hóa và học máy. |
+| B06 | [Giám sát sức khỏe kết cấu (SHM)](https://github.com/chungntu/shm-book) | **Đã có bản thảo đầy đủ** | Giới thiệu giám sát sức khỏe kết cấu từ cảm biến và xử lý tín hiệu đến nhận dạng modal, OMA, học máy và học sâu. |
+| B07 | [Nhận dạng hệ kết cấu từ dao động môi trường](https://github.com/chungntu/structural-system-identification-book) | **Gần hoàn chỉnh** | Hướng dẫn nhận dạng hệ kết cấu từ dao động môi trường qua OMA, FDD/EFDD/FSDD, SSI và Compressive Sensing, cùng tự động hóa, theo dõi dài hạn và nghiên cứu tình huống. |
 
 ## Thứ tự nên tập trung
 
