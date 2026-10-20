@@ -17,7 +17,7 @@ Các dự án còn lại đang viết, tái cấu trúc hoặc mới ở mức m
 | B02 | Tối ưu kết cấu – lý thuyết và ứng dụng trong công trình cầu | **Đã có bản thảo đầy đủ; cần rà soát cuối** | 9 chương, phụ lục code, tài liệu tham khảo; PDF 126 trang; ví dụ tính toán đi kèm. |
 | B03 | Động lực học công trình | **Đã có bản thảo đầy đủ** | 12 chương, phụ lục mã nguồn, tài liệu tham khảo; PDF 203 trang và quy trình build. |
 | B04 | Giám sát sức khỏe kết cấu (SHM) | **Đã có bản thảo đầy đủ** | 6 chương, phụ lục mã nguồn và đáp số; PDF 174 trang. |
-| B05 | Nhận dạng hệ kết cấu từ dao động môi trường | **Gần hoàn chỉnh** | 5 phần, chương 1–10, chương Compressive Sensing, 12–14; phụ lục, đáp số, thuật ngữ; PDF 356 trang. Cần rà soát mạch liên chương và hoàn tất vòng biên tập. |
+| B05 | Nhận dạng hệ kết cấu từ dao động môi trường | **Gần hoàn chỉnh** | 5 phần, 14 chương (chương 11 là Compressive Sensing); phụ lục, đáp số, thuật ngữ; PDF 356 trang. Cần rà soát mạch liên chương và hoàn tất vòng biên tập. |
 | B06 | AI và chuyển đổi số trong xây dựng | **Đang ở mức khung sách/tổ chức biên soạn** | Có bản mục lục tích hợp 12 chương và PDF 20 trang; tệp chính ghi rõ mục lục dùng để phân công. |
 | B07 | AI và chuyển đổi số trong quản lý xây dựng | **Bản thảo đang phát triển** | Có nguồn 12 chương và PDF 71 trang; cần đánh giá độ sâu, độ đồng đều và tính cập nhật từng chương trước khi xác nhận mức hoàn thành. |
 | B08 | AI Agent cho kỹ sư xây dựng | **Bản thảo ban đầu** | Có các chương nền tảng, Antigravity, quy trình, ứng dụng và ví dụ dự toán; PDF chỉ 143 KB, chưa có dấu hiệu là bản sách hoàn chỉnh. |
@@ -42,5 +42,6 @@ Các dự án còn lại đang viết, tái cấu trúc hoặc mới ở mức m
 ## Ngoài danh mục sách
 
 `3 THỊ GIÁC MÁY TÍNH - GIÁM SÁT SỨC KHỎE KẾT CẤU` hiện có mã nguồn, trọng số mô hình và dữ liệu nhưng chưa tìm thấy bản thảo hoặc đề cương sách; chưa đưa vào danh mục sách.
+
 
 
